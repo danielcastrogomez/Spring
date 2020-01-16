@@ -10,4 +10,5 @@ public class Test {
 	public String apellido;
 	public String userName;
 	
+	public double saldo;
 }
