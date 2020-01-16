@@ -7,9 +7,13 @@ public class Test {
 	public String pass;
 	public Long id;
 	 
-  public int cuenta;
+  	public int cuenta;
 	public String apellido;
 	public String userName;
 	public double saldo;
+
+	public String saludo;
+
+
   
 }
