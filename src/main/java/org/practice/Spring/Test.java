@@ -12,8 +12,9 @@ public class Test {
 	public String userName;
 	public double saldo;
 
-	public String saludo;
 
+	public String saludo;
+	public String despedida;
 
   
 }
