@@ -6,4 +6,9 @@ public class Test {
 	
 	public String pass;
 	public Long id;
+	
+	public String apellido;
+	public String userName;
+	
+	public double saldo;
 }
